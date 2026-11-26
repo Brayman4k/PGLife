@@ -1,9 +1,9 @@
 # PGLife downloads
 
-APK distribution for LIFE license holders. A valid LIFE activation key is required.
+Download the current APK from [the stable download link](https://lifetime-license-pgsharp-test.lifetime-license-cloudflare.workers.dev/download) or [GitHub Releases](https://github.com/Brayman4k/PGLife/releases/latest). A valid LIFE activation key is required.
 
-Download the APK from [Releases](https://github.com/Brayman4k/PGLife/releases). Install updates over your existing installation to preserve its data and activation. Do not uninstall the existing app as part of a normal update.
+Install updates over your existing PGLife installation to preserve app data and activation. Do not uninstall first. Android asks you to confirm installation.
 
-Check SHA256SUMS.txt for the published file digest. Compatible releases use the same signing certificate. Android asks you to confirm installation.
+Each release includes release notes and SHA256SUMS.txt. Compatible releases use the same signing certificate.
 
 This repository distributes APK files and release notes. It contains no license keys or private service credentials.
